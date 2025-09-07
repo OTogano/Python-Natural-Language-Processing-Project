@@ -1,5 +1,5 @@
 # Python Natural Language Processing Project
-This Natural Language Processing project consists of two smaller projects. Both utilize pythons data science libraries as well as SKlearn NLP tools and models.
+This Natural Language Processing project consists of two smaller projects. Both utilize pythons data science libraries as well as Scikit_learn NLP tools and models.
 This project was meant to apply the concepts learnt about Natural Language Processing with python.
 
 # 1. Spam Detector
